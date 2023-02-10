@@ -1,6 +1,6 @@
 # Loans-Status-Classification
 
-The aim of the project is to classify the customers based on Loan defaulting (Charged off or Fully Paid)
+The aim of the project is to classify the customers based on Loan defaulting (Charged off or Fully Paid).
 
 1) The considered dataset is of bank customers containing data pertaining to their account details, credit score, loan details etc.
 
